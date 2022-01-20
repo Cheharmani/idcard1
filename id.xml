@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<students>
+	<student>
+		<name>Aman Kumar</name>
+		<branch>CSE</branch>
+		<broll>101</broll>
+		<session>2020-23</session>
+	</student>
+	<student>
+		<name>Rupesh Kumar</name>
+		<branch>CSE</branch>
+		<broll>102</broll>
+		<session>2020-23</session>
+	</student>
+	<student>
+		<name>Chehar Mani</name>
+		<branch>CSE</branch>
+		<broll>103</broll>
+		<session>2020-23</session>
+	</student>
+	
+</students>
